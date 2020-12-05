@@ -36,7 +36,7 @@
 
 
 ## About The Project
-![Note Taker Gif](/assets/giphy.gif) 
+![Note Taker Gif](/assets/note-taker.gif) 
 
 
 This application can be used to write, save, and delete notes. 
